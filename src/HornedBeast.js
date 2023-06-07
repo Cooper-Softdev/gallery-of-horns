@@ -22,7 +22,7 @@ class HornedBeast extends React.Component {
       <>
         <card style ={{width: '18rem'}}>
           <h2>{this.props.title}</h2>
-          <img src={this.props.img_url} alt={this.props.alt} title={this.props.title}></img>
+          <img src={this.props.image_url} alt={this.props.alt} title={this.props.title}></img>
           <p>{this.props.description}</p>
           <p>😍 {this.state.favorited} many times!</p>
           <Button variant='dark' onClick={this.incrementFavorite} > Press Me!</Button>
