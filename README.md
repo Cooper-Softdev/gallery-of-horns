@@ -1,4 +1,4 @@
-Number and name of feature: 1? images, had them working but I renamed some stuff and can't get them to display, deleted something by accident?
+## 1 - images, had them working but I renamed some stuff and can't get them to display, deleted something by accident?
 
 Estimate of time needed to complete: an hour or so...
 
@@ -8,7 +8,7 @@ Finish time: Forgot a timer, I'm sorry.
 
 Actual time needed to complete: an hour or so...
 
-Number and name of feature: Bootstrap
+## 2 - Bootstrap
 
 Estimate of time needed to complete: didn't estimate, started and finished it during class by following along.
 
@@ -18,7 +18,7 @@ Finish time: N/A
 
 Actual time needed to complete: Within Class
 
-Number and name of feature: favorited increment
+## 3 - favorited increment
 
 Estimate of time needed to complete: less than an hour
 
