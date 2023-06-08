@@ -1,17 +1,5 @@
 main {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.main-cards{
-  margin: 5px;
-}
-.main-image-cards:hover {
-  filter: brightness(40%);
-}
-.main-image-cards {
-  padding: 5px;
-  transition: 50ms; 
-  color: gray;
+  justify-content: space-between;
 }
