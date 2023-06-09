@@ -28,5 +28,33 @@ Finish time: 9:30 P.M. maybe.
 
 Actual time needed to complete: ~15 minutes
 
+## 4 - Display Modal, via new SelectedBeast component
 
+Estimate of time needed to complete: 3-4 hours
+
+Start time: ~ 6:30pm
+
+Finish time: ~ 8:30
+
+Actual time needed to complete: 2 hours
+
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
 
