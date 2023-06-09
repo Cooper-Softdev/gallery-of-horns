@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+/* grabbed from mdn or react docs, maybe both? */
+input {
+  margin: 10px;
+  border: 2px solid blue;
+  width: 20vw;
+  height: 40px;
+}
+
+form {
+  width: 25vw;
+  margin-top:auto;
+  margin-bottom: auto;
+}
+
+.search-container {
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+}
