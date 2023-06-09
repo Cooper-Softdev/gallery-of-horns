@@ -38,15 +38,15 @@ Finish time: ~ 8:30
 
 Actual time needed to complete: 2 hours
 
-Number and name of feature: ________________________________
+## 5 - Filter and Form
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 4 hours probably, I allot myself time
 
-Start time: _____
+Start time: 6:30 or so
 
-Finish time: _____
+Finish time: 8:30
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours if I got the start time correct.
 
 Number and name of feature: ________________________________
 
